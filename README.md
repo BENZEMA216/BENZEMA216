@@ -49,6 +49,36 @@ Previously shipped LLM-powered data products at **Tencent**, winning the 2023 Bu
 - **AGENT Product Design** — Context engineering, post-training, and the UX of AI agents
 - **Creator Workflows** — The gap between what tools offer and how creators actually work
 
+### 🧬 Personality Profile
+
+<details>
+<summary><b>CliftonStrengths Top 10</b> — 战略思维主导型</summary>
+
+&nbsp;
+
+My Top 5 signature themes are all about **ideation, learning, and turning insights into action**.
+
+| Rank | Strength | Domain |
+|:----:|----------|--------|
+| 1 | **理念** Ideation | 🟢 Strategic Thinking |
+| 2 | **学习** Learner | 🟢 Strategic Thinking |
+| 3 | **搜集** Input | 🟢 Strategic Thinking |
+| 4 | **积极** Positivity | 🔵 Relationship Building |
+| 5 | **成就** Achiever | 🟣 Executing |
+| 6 | **统筹** Arranger | 🟣 Executing |
+| 7 | **行动** Activator | 🟠 Influencing |
+| 8 | **思维** Intellection | 🟢 Strategic Thinking |
+| 9 | **伯乐** Developer | 🔵 Relationship Building |
+| 10 | **自信** Self-Assurance | 🟠 Influencing |
+
+**Domain distribution:** 🟢 Strategic Thinking ×4 · 🟣 Executing ×2 · 🟠 Influencing ×2 · 🔵 Relationship Building ×2
+
+> 我的核心驱动力：对新理念的好奇 → 大量吸收信息 → 形成独特洞察 → 快速付诸行动
+
+</details>
+
+<!-- Add more personality tests here -->
+
 ### 📫 Contact
 
 - Email: zhudongzhe_product@163.com

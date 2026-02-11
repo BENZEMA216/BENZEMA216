@@ -2,7 +2,7 @@
 
 **AI Product Manager × Builder**
 
-Currently at **ByteDance**, building the Creative AGENT for [Jimeng AI](https://jimeng.jianying.com) from 0→1 — 200K+ DAU, powering the main entry of Jimeng Web.
+Currently at **ByteDance**, building the Creative AGENT for [Jimeng AI](https://jimeng.jianying.com) from 0→1, now powering the main entry of Jimeng Web.
 
 Previously shipped LLM-powered data products at **Tencent**, winning the 2023 Business Breakthrough Award.
 
@@ -13,16 +13,20 @@ Previously shipped LLM-powered data products at **Tencent**, winning the 2023 Bu
 ### 💼 Experience
 
 **ByteDance — AI Product Manager** · Jianying & Jimeng · 2024.07 - Present
-- Owner of Jimeng Creative AGENT: 0→1 product build, 200K+ DAU, 51% UV export rate
+- Owner of Jimeng Creative AGENT: 0→1 product build, now the main entry of Jimeng Web
 - Led AGENT post-training: RL for creative model, automated SFT pipeline with biweekly A/B iterations
 - Defined VLM training for Jianying Smart Video: end-to-end effect spec, data pipeline, eval system
+
+**Creative CoWork — Video AGENT Explorer** · Side Project · 2025
+- Building a video creation agent for creators — full-pipeline AI automation from script → voiceover → music → final video
+- Modular Skills architecture on Claude Code: TTS, BGM generation, video compositing, storyboard planning
 
 **Tencent — Product Specialist** · Overseas Publishing AI Platform · 2023.02 - 2024.07
 - Rebuilt game sentiment monitoring with LLM — multi-language, multi-timezone, fully automated → **2023 Business Breakthrough Award**
 - Built ChatBI: AI-native data product with LLM + RAG, transforming how teams query game analytics
 
 **Tencent — Data Product Manager** · Overseas Publishing Data Platform · 2022.03 - 2023.02
-- Owned DataBrain sentiment product: shipped real-time alerts, periodic reports; doubled PV/UV in 3 months
+- Owned DataBrain sentiment product: shipped real-time alerts, periodic reports; significantly grew PV/UV
 - Built DataLab from 0→1: visual analytics platform enabling no-SQL data analysis for operations teams
 
 ### 🎓 Education
@@ -157,82 +161,83 @@ Based on the Primal World Beliefs framework by Jeremy D. W. Clifton.
 
 &nbsp;
 
-A comprehensive assessment based on the **Revised NEO Personality Inventory**, covering the Big Five personality traits and 30 facets.
+A comprehensive assessment based on the **Revised NEO Personality Inventory** (scores range 0–50). Covers the Big Five traits and 30 facets.
+
+**Top traits (99th percentile):** Experience-Seeking, Tough-Mindedness, Resourcefulness, Ambitious, Disorderliness
 
 **Big Five Overview:**
 
-| Trait | Level | Bar |
-|-------|-------|-----|
-| **Openness** 经验开放性 | Very High | `████████████████████░░` |
-| **Extraversion** 外向性 | Above Average | `██████████████░░░░░░░░` |
-| **Agreeableness** 宜人性 | Average | `████████████░░░░░░░░░░` |
-| **Conscientiousness** 尽责性 | Average | `██████████░░░░░░░░░░░░` |
-| **Neuroticism** 神经质 | Low | `██████░░░░░░░░░░░░░░░░` |
+| Trait | Score | Percentile | Bar |
+|-------|:-----:|:----------:|-----|
+| **Extraversion** 外向 | 39/50 | **89th** High | `██████████████████░░░░` |
+| **Conscientiousness** 责任心 | 31/50 | **72nd** Above Avg | `██████████████░░░░░░░░` |
+| **Openness** 开放性 | 37/50 | **60th** Above Avg | `████████████░░░░░░░░░░` |
+| **Agreeableness** 宜人性 | ~32/50 | **~10th** Low | `██░░░░░░░░░░░░░░░░░░░░` |
+| **Neuroticism** 神经质 | very low | **2nd** Very Low | `░░░░░░░░░░░░░░░░░░░░░░` |
 
-**Openness to Experience 经验开放性 — Very High**
-> Highly imaginative, intellectually curious, drawn to novel ideas and aesthetics.
+**Extraversion 外向 — 89th percentile (High)**
+> Highly assertive, energetic, and positive. The strongest Big Five dimension.
 
-| Facet | Level |
-|-------|-------|
-| Ideas 思想 | Very High |
-| Fantasy 幻想 | Very High |
-| Aesthetics 审美 | High |
-| Values 价值 | Above Average |
-| Feelings 感受 | Above Average |
-| Actions 行动 | Average |
+| Facet | Approx. Percentile |
+|-------|:------------------:|
+| Positive Emotions 积极的情绪 | ~93rd |
+| Gregariousness 合群 | ~83rd |
+| Excitement-Seeking 寻求刺激 | ~77th |
+| Warmth 温暖 | ~67th |
+| Activity 活动 | ~57th |
 
-**Extraversion 外向性 — Above Average**
-> Assertive and energetic, comfortable leading and expressing positive emotions.
+**Conscientiousness 责任心 — 72nd percentile (Above Average)**
+> Achievement-driven and dutiful, but deliberately flexible — very low orderliness and deliberation.
 
-| Facet | Level |
-|-------|-------|
-| Assertiveness 果断 | High |
-| Positive Emotions 积极情绪 | High |
-| Warmth 热情 | Above Average |
-| Activity 活力 | Above Average |
-| Excitement-Seeking 刺激寻求 | Average |
-| Gregariousness 合群 | Average |
+| Facet | Approx. Percentile |
+|-------|:------------------:|
+| Achievement-Striving 达成-努力 | ~85th |
+| Dutifulness 尽职尽责 | ~85th |
+| Competence 能力 | ~74th |
+| Self-Discipline 自律 | ~65th |
+| Deliberation 审议 | ~32nd ↓ |
+| Order 次序 | ~15th ↓ |
 
-**Agreeableness 宜人性 — Average**
-> Balanced between cooperation and independent judgment. Trusting but not submissive.
+**Openness 开放性 — 60th percentile (Above Average)**
+> Open to new experiences and liberal values, but practical rather than fantasy-driven.
 
-| Facet | Level |
-|-------|-------|
-| Trust 信任 | Above Average |
-| Altruism 利他 | Above Average |
-| Tender-Mindedness 同情 | Above Average |
-| Straightforwardness 坦率 | Average |
-| Compliance 顺从 | Below Average |
-| Modesty 谦虚 | Low |
+| Facet | Approx. Percentile |
+|-------|:------------------:|
+| Values 值 | ~85th |
+| Actions 行动 | ~70th |
+| Feelings 感情 | ~67th |
+| Ideas 想法 | ~50th |
+| Aesthetics 美学 | ~36th |
+| Fantasy 幻想 | Low ↓ |
 
-**Conscientiousness 尽责性 — Average**
-> Competent and achievement-driven, but flexible rather than rigid.
+**Agreeableness 宜人性 — ~10th percentile (Low)**
+> Independent-minded and direct. High trust, but very low compliance and tender-mindedness.
 
-| Facet | Level |
-|-------|-------|
-| Competence 能力 | Above Average |
-| Achievement Striving 成就追求 | Above Average |
-| Self-Discipline 自律 | Average |
-| Dutifulness 责任 | Average |
-| Order 秩序 | Below Average |
-| Deliberation 审慎 | Below Average |
+| Facet | Approx. Percentile |
+|-------|:------------------:|
+| Trust 信任 | ~77th |
+| Altruism 利他 | ~35th |
+| Compliance 合规 | ~23rd ↓ |
+| Tender-Mindedness 温柔 | Very Low ↓ |
+| Attention-Seeking | High ↑ |
 
-**Neuroticism 神经质 — Low** (= High Emotional Stability)
-> Emotionally stable, calm under pressure, resilient to stress.
+**Neuroticism 神经质 — 2nd percentile (Very Low)**
+> Extremely emotionally stable. Lower than 98% of people. Rock-solid under pressure.
 
-| Facet | Level |
-|-------|-------|
-| Self-Consciousness 自我意识 | Average |
-| Impulsiveness 冲动 | Below Average |
-| Anxiety 焦虑 | Low |
-| Depression 抑郁 | Low |
-| Angry Hostility 愤怒 | Low |
-| Vulnerability 脆弱 | Low |
+| Facet | Approx. Percentile |
+|-------|:------------------:|
+| Angry Hostility 愤怒 | ~33rd |
+| Anxiety 焦虑 | ~14th |
+| Self-Consciousness 自我意识 | ~12th |
+| Low Mood 情绪低落 | ~5th |
+| Vulnerability 脆弱 | ~5th |
 
 **Cross-test consistency:**
-> Very High Openness ↔ CliftonStrengths Ideation #1, Learner #2, Input #3
-> Low Neuroticism ↔ CliftonStrengths Positivity #4
-> Low Modesty + High Assertiveness ↔ CliftonStrengths Self-Assurance #10
+> Extraversion 89th ↔ CliftonStrengths Positivity #4, Activator #7
+> Tough-Mindedness 99th ↔ Low Agreeableness 10th + Low Neuroticism 2nd
+> Disorderliness 99th ↔ Low Order 15th in Conscientiousness
+> Low Deliberation 32nd ↔ CliftonStrengths Activator #7 (acts fast, thinks later)
+> Low Neuroticism 2nd ↔ CliftonStrengths Self-Assurance #10
 
 <details>
 <summary>📎 Original result</summary>

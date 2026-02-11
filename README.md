@@ -1,41 +1,59 @@
-## Hi, I'm BENZEMA 👋
+## Hi, I'm Dongzhe Zhu (朱东哲) 👋
 
-**AI Builder × Product Thinker**
+**AI Product Manager × Builder**
 
-I build tools that empower creators with AI. Currently designing **Creative CoWork** — an AI-powered creative workbench for professional creators.
+Currently at **ByteDance**, building the Creative AGENT for [Jimeng AI](https://jimeng.jianying.com) from 0→1 — 200K+ DAU, powering the main entry of Jimeng Web.
 
-我相信 AI 应该让创作者更强大，而不是替代他们。
+Previously shipped LLM-powered data products at **Tencent**, winning the 2023 Business Breakthrough Award.
+
+在工作中做产品，在业余时间造工具。我相信最好的 AI 产品来自对用户创作流程的深刻理解。
 
 ---
 
-### 🔧 What I Build
+### 💼 Experience
+
+**ByteDance — AI Product Manager** · Jianying & Jimeng · 2024.07 - Present
+- Owner of Jimeng Creative AGENT: 0→1 product build, 200K+ DAU, 51% UV export rate
+- Led AGENT post-training: RL for creative model, automated SFT pipeline with biweekly A/B iterations
+- Defined VLM training for Jianying Smart Video: end-to-end effect spec, data pipeline, eval system
+
+**Tencent — Product Specialist** · Overseas Publishing AI Platform · 2023.02 - 2024.07
+- Rebuilt game sentiment monitoring with LLM — multi-language, multi-timezone, fully automated → **2023 Business Breakthrough Award**
+- Built ChatBI: AI-native data product with LLM + RAG, transforming how teams query game analytics
+
+**Tencent — Data Product Manager** · Overseas Publishing Data Platform · 2022.03 - 2023.02
+- Owned DataBrain sentiment product: shipped real-time alerts, periodic reports; doubled PV/UV in 3 months
+- Built DataLab from 0→1: visual analytics platform enabling no-SQL data analysis for operations teams
+
+### 🎓 Education
+
+**Nanyang Technological University** · M.Sc. Computer Control & Automation · GPA 4.6/5, Top 10%
+**Tongji University** · B.Eng. Automation
+
+---
+
+### 🔧 Open Source Projects
 
 | Project | Description |
 |---------|-------------|
-| [dreamina-claude-skills](https://github.com/BENZEMA216/dreamina-claude-skills) | Dreamina AI 创作工具技能集 for Claude Code ⭐12 |
-| [creative-think](https://github.com/BENZEMA216/creative-think) | 创意思考推理链 — from creative brief to structured design prompt |
-| [music-analyzer](https://github.com/BENZEMA216/music-analyzer) | Audio analysis & Dreamina prompt generation plugin |
+| [dreamina-claude-skills](https://github.com/BENZEMA216/dreamina-claude-skills) | Dreamina Agent Skills for Claude Code ⭐12 |
+| [creative-think](https://github.com/BENZEMA216/creative-think) | 创意思考推理链 — creative brief to structured design prompt |
+| [music-analyzer](https://github.com/BENZEMA216/music-analyzer) | Audio analysis & storyboard generation plugin |
 | [self-purify](https://github.com/BENZEMA216/self-purify) | Claude Code self-purification — security audit & session analysis |
-| [clawdbot-skill-web3-pay](https://github.com/BENZEMA216/clawdbot-skill-web3-pay) | Accept crypto payments (USDC) for Clawdbot |
+| [clawdbot-skill-web3-pay](https://github.com/BENZEMA216/clawdbot-skill-web3-pay) | Crypto payments (USDC) on Base/Polygon/ETH/Arbitrum |
 | [rss-reader](https://github.com/BENZEMA216/rss-reader) | RSS AI Reader — 自动抓取、摘要、推送到飞书 |
 
 ### 🧠 What I Think About
 
-- **AI-Native Creative Tools** — How to design tools where AI is a creative partner, not just a feature
-- **Claude Code Ecosystem** — Building skills, plugins, and workflows on top of Claude Code
-- **Context Engineering** — Making AI understand and utilize the full context of creative work
-- **Product Design** — User research, pain points, and the gap between tools and real workflows
-
-### 💼 Experience
-
-<!-- Replace with your actual experience -->
-> *Coming soon — 稍后补充*
+- **AI-Native Creative Tools** — AI as a creative partner, not just a feature
+- **AGENT Product Design** — Context engineering, post-training, and the UX of AI agents
+- **Creator Workflows** — The gap between what tools offer and how creators actually work
 
 ### 📫 Contact
 
-<!-- Replace with your actual contact info -->
-> *Coming soon — 稍后补充*
+- Email: zhudongzhe_product@163.com
+- GitHub: [@BENZEMA216](https://github.com/BENZEMA216)
 
 ---
 
-<sub>🌐 [benzema216.github.io](https://benzema216.github.io) · Built with curiosity and Claude</sub>
+<sub>🌐 [benzema216.github.io](https://benzema216.github.io)</sub>

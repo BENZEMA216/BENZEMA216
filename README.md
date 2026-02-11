@@ -19,7 +19,7 @@ Previously shipped LLM-powered data products at **Tencent**, winning the 2023 Bu
 - Owner of Jimeng Creative AGENT: 0→1 product build, now the main entry of Jimeng Web
 - Led AGENT post-training: RL for creative model, automated SFT pipeline with biweekly A/B iterations
 - Defined VLM training for Jianying Smart Video: end-to-end effect spec, data pipeline, eval system
-- Exploring **Creative CoWork Video AGENT**: full-pipeline AI video automation for creators (script → voiceover → music → final video), modular Skills architecture on Claude Code
+- Exploring **即梦创作 Studio**: full-pipeline AI video automation for creators (script → voiceover → music → final video), modular Skills architecture on Claude Code
 
 **Tencent — Product Specialist / Data PM** · Overseas Publishing · Shenzhen & London · 2022.03 - 2024.07
 - Rebuilt game sentiment monitoring with LLM — multi-language, multi-timezone, fully automated → **2023 Business Breakthrough Award**

@@ -2,11 +2,14 @@
 
 **AI Product Manager × Builder**
 
-Currently at **ByteDance**, building the Creative AGENT for [Jimeng AI](https://jimeng.jianying.com) from 0→1, now powering the main entry of Jimeng Web.
+Currently at **ByteDance**, building the Creative AGENT for [Jimeng AI](https://jimeng.jianying.com) from 0→1, now the main entry of Jimeng Web. Also defining VLM-powered Smart Video at Jianying.
 
 Previously shipped LLM-powered data products at **Tencent**, winning the 2023 Business Breakthrough Award.
 
-在工作中做产品，在业余时间造工具。我相信最好的 AI 产品来自对用户创作流程的深刻理解。
+- 在字节做过成熟的 agent 产品 — 即梦 Creative AGENT 是 Lovart / Oiioii 的通用版，踩过 agent 产研的所有坑
+- 热情和好奇心充沛的人
+- 用 GitHub repo 当 PRD 写，Claude Max 20 倍总量消耗者，用 AI 武装自己和团队
+- Vibe coding 真正做出完整产品并上线的人
 
 ---
 

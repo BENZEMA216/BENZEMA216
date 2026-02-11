@@ -39,22 +39,7 @@ Previously shipped LLM-powered data products at **Tencent**, winning the 2023 Bu
 
 ---
 
-### 🔧 Open Source Projects
-
-| Project | Description |
-|---------|-------------|
-| [dreamina-claude-skills](https://github.com/BENZEMA216/dreamina-claude-skills) | Dreamina Agent Skills for Claude Code ⭐12 |
-| [creative-think](https://github.com/BENZEMA216/creative-think) | 创意思考推理链 — creative brief to structured design prompt |
-| [music-analyzer](https://github.com/BENZEMA216/music-analyzer) | Audio analysis & storyboard generation plugin |
-| [self-purify](https://github.com/BENZEMA216/self-purify) | Claude Code self-purification — security audit & session analysis |
-| [clawdbot-skill-web3-pay](https://github.com/BENZEMA216/clawdbot-skill-web3-pay) | Crypto payments (USDC) on Base/Polygon/ETH/Arbitrum |
-| [rss-reader](https://github.com/BENZEMA216/rss-reader) | RSS AI Reader — 自动抓取、摘要、推送到飞书 |
-
-### 🧠 What I Think About
-
-- **AI-Native Creative Tools** — AI as a creative partner, not just a feature
-- **AGENT Product Design** — Context engineering, post-training, and the UX of AI agents
-- **Creator Workflows** — The gap between what tools offer and how creators actually work
+🔗 [View all repositories →](https://github.com/BENZEMA216?tab=repositories)
 
 ### 🧬 Personality Profile
 

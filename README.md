@@ -153,20 +153,86 @@ Based on the Primal World Beliefs framework by Jeremy D. W. Clifton.
 </details>
 
 <details>
-<summary><b>200+ Personality Measures</b> — Revised NEO PI-R & More</summary>
+<summary><b>200+ Personality Measures</b> — Revised NEO PI-R Big Five</summary>
 
 &nbsp;
 
-A comprehensive personality assessment covering **200+ measures** including the Big Five (NEO PI-R) and their 30 facets.
+A comprehensive assessment based on the **Revised NEO Personality Inventory**, covering the Big Five personality traits and 30 facets.
 
-Based on the **Revised NEO Personality Inventory**, measuring:
-- **Openness to Experience 经验开放性** — imagination, creativity, intellectual curiosity
-- **Conscientiousness 尽责性** — competence, self-discipline, achievement striving
-- **Extraversion 外向性** — warmth, assertiveness, positive emotions
-- **Agreeableness 宜人性** — trust, altruism, tender-mindedness
-- **Neuroticism 神经质** — anxiety, vulnerability, impulsiveness
+**Big Five Overview:**
 
-See the full result below for detailed scores across all dimensions and facets.
+| Trait | Level | Bar |
+|-------|-------|-----|
+| **Openness** 经验开放性 | Very High | `████████████████████░░` |
+| **Extraversion** 外向性 | Above Average | `██████████████░░░░░░░░` |
+| **Agreeableness** 宜人性 | Average | `████████████░░░░░░░░░░` |
+| **Conscientiousness** 尽责性 | Average | `██████████░░░░░░░░░░░░` |
+| **Neuroticism** 神经质 | Low | `██████░░░░░░░░░░░░░░░░` |
+
+**Openness to Experience 经验开放性 — Very High**
+> Highly imaginative, intellectually curious, drawn to novel ideas and aesthetics.
+
+| Facet | Level |
+|-------|-------|
+| Ideas 思想 | Very High |
+| Fantasy 幻想 | Very High |
+| Aesthetics 审美 | High |
+| Values 价值 | Above Average |
+| Feelings 感受 | Above Average |
+| Actions 行动 | Average |
+
+**Extraversion 外向性 — Above Average**
+> Assertive and energetic, comfortable leading and expressing positive emotions.
+
+| Facet | Level |
+|-------|-------|
+| Assertiveness 果断 | High |
+| Positive Emotions 积极情绪 | High |
+| Warmth 热情 | Above Average |
+| Activity 活力 | Above Average |
+| Excitement-Seeking 刺激寻求 | Average |
+| Gregariousness 合群 | Average |
+
+**Agreeableness 宜人性 — Average**
+> Balanced between cooperation and independent judgment. Trusting but not submissive.
+
+| Facet | Level |
+|-------|-------|
+| Trust 信任 | Above Average |
+| Altruism 利他 | Above Average |
+| Tender-Mindedness 同情 | Above Average |
+| Straightforwardness 坦率 | Average |
+| Compliance 顺从 | Below Average |
+| Modesty 谦虚 | Low |
+
+**Conscientiousness 尽责性 — Average**
+> Competent and achievement-driven, but flexible rather than rigid.
+
+| Facet | Level |
+|-------|-------|
+| Competence 能力 | Above Average |
+| Achievement Striving 成就追求 | Above Average |
+| Self-Discipline 自律 | Average |
+| Dutifulness 责任 | Average |
+| Order 秩序 | Below Average |
+| Deliberation 审慎 | Below Average |
+
+**Neuroticism 神经质 — Low** (= High Emotional Stability)
+> Emotionally stable, calm under pressure, resilient to stress.
+
+| Facet | Level |
+|-------|-------|
+| Self-Consciousness 自我意识 | Average |
+| Impulsiveness 冲动 | Below Average |
+| Anxiety 焦虑 | Low |
+| Depression 抑郁 | Low |
+| Angry Hostility 愤怒 | Low |
+| Vulnerability 脆弱 | Low |
+
+**Cross-test consistency:**
+> Very High Openness ↔ CliftonStrengths Ideation #1, Learner #2, Input #3
+> Low Neuroticism ↔ CliftonStrengths Positivity #4
+> Low Modesty + High Assertiveness ↔ CliftonStrengths Self-Assurance #10
 
 <details>
 <summary>📎 Original result</summary>

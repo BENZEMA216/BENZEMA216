@@ -243,7 +243,6 @@ A comprehensive assessment based on the **Revised NEO Personality Inventory** (s
 
 | Repo | Role |
 |------|------|
-| [Dremaina-AGENT-2026](https://github.com/BENZEMA216/Dremaina-AGENT-2026) | 主项目 |
 | [music-analyzer](https://github.com/BENZEMA216/music-analyzer) | 技能：音频 → Dreamina Prompt |
 | [creative-think](https://github.com/BENZEMA216/creative-think) | 技能：Brief → 创意推理链 |
 | [dreamina-claude-skills](https://github.com/BENZEMA216/dreamina-claude-skills) | 技能集 |

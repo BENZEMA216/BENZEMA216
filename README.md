@@ -233,6 +233,8 @@ A comprehensive assessment based on the **Revised NEO Personality Inventory** (s
 ### 🗺️ Memory Map
 
 > GitHub as my external brain — every repo is a memory unit.
+>
+> 📖 [Memory System 维护指南](./MEMORY-GUIDE.md) — 命名规范、标签体系、新建仓库 Checklist、定期维护流程
 
 <details>
 <summary><b>🦞 Agent Ecosystem</b> — OpenClaw / Clawd 产品线</summary>

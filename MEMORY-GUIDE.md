@@ -11,6 +11,33 @@
 
 ---
 
+## Agent Bootstrap Protocol
+
+> 任何 AI Agent 首次与我工作时，按此顺序初始化。
+
+**Step 1 — 读本文档**
+你正在读。理解热/温/冷分层和项目结构。
+
+**Step 2 — 定位当前任务所属项目**
+根据用户的需求，在下方"项目记忆"中找到对应项目组。
+
+**Step 3 — 读项目 repo 的 CLAUDE.md**
+```bash
+gh api repos/BENZEMA216/{repo-name}/contents/CLAUDE.md --jq '.content' | base64 -d
+```
+如果没有 CLAUDE.md，读 README.md。如果都没有，提醒用户补充。
+
+**Step 4 — 检查热记忆**
+```bash
+# 如果项目有 active_context.md
+gh api repos/BENZEMA216/{repo-name}/contents/active_context.md --jq '.content' | base64 -d
+```
+
+**Step 5 — 开始工作**
+带着以上上下文回答用户。对话中形成的结论，主动提议写入对应位置。
+
+---
+
 ## 一、记忆温度分层
 
 ### 🔴 热记忆 — 当前工作状态
@@ -35,7 +62,7 @@
 
 归档存储，需要时检索。
 
-- **载体**：BENZEMA-vault（Obsidian）
+- **载体**：vault（Obsidian）
 - **内容**：方法论总结、行业研究、阅读笔记、竞品分析
 - **更新时机**：定期从热/温记忆中蒸馏
 - **格式**：Obsidian 双链语法（`[[Link]]`）+ YAML Front Matter
@@ -66,7 +93,7 @@
 
 | 仓库 | 角色 |
 |------|------|
-| [Dremaina-AGENT-2026](https://github.com/BENZEMA216/Dremaina-AGENT-2026) | 主项目 |
+| [vault](https://github.com/BENZEMA216/vault) | 主项目 |
 | [music-analyzer](https://github.com/BENZEMA216/music-analyzer) | 技能：音频 → Dreamina Prompt |
 | [creative-think](https://github.com/BENZEMA216/creative-think) | 技能：Brief → 创意推理链 → Prompt |
 | [dreamina-claude-skills](https://github.com/BENZEMA216/dreamina-claude-skills) | 技能集 |
@@ -126,7 +153,7 @@ AI Agent Gateway 部署与产品。
 |------|------|
 | [BENZEMA216](https://github.com/BENZEMA216/BENZEMA216) | Profile README + Memory Map + 本文档 |
 | [BENZEMA216.github.io](https://github.com/BENZEMA216/BENZEMA216.github.io) | 个人网站 |
-| [BENZEMA-vault](https://github.com/BENZEMA216/BENZEMA-vault) | Obsidian 笔记库（冷记忆归档） |
+| [vault](https://github.com/BENZEMA216/vault) | Obsidian 知识库（热/温/冷本地浏览） |
 
 ---
 
@@ -150,7 +177,7 @@ AI Agent Gateway 部署与产品。
 
 ### 读到有价值的内容时
 
-→ 写入 BENZEMA-vault，用 `[[双链]]` 关联相关笔记
+→ 写入 vault，用 `[[双链]]` 关联相关笔记
 
 ### 每周/定期
 

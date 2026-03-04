@@ -232,67 +232,73 @@ A comprehensive assessment based on the **Revised NEO Personality Inventory** (s
 
 ### 🗺️ Memory Map
 
-> GitHub as my external brain — every repo is a memory unit.
+> GitHub as my external brain — organized by projects, layered by temperature.
 >
-> 📖 [Memory System 维护指南](./MEMORY-GUIDE.md) — 命名规范、标签体系、新建仓库 Checklist、定期维护流程
+> 📖 [Memory System 维护指南](./MEMORY-GUIDE.md) — 热/温/冷分层、项目结构、日常操作流程
 
 <details>
-<summary><b>🦞 Agent Ecosystem</b> — OpenClaw / Clawd 产品线</summary>
+<summary><b>即梦创作 Studio</b> — 字节跳动即梦 AI 创作工具链</summary>
 
 &nbsp;
 
-| Repo | Description |
-|------|-------------|
-| [creo](https://github.com/BENZEMA216/creo) | Multimodal aesthetic memory system for AIGC |
-| [Dremaina-AGENT-2026](https://github.com/BENZEMA216/Dremaina-AGENT-2026) | 即梦创作 Agent 核心项目 |
-| [HomForClawd](https://github.com/BENZEMA216/HomForClawd) | OpenClaw iOS 客户端 |
-| [xian-home](https://github.com/BENZEMA216/xian-home) | 弦的信号空间 · OpenClaw Web Home |
-| [Creative-Cowork](https://github.com/BENZEMA216/Creative-Cowork) | AI-human collaborative creation |
-| [agent-form](https://github.com/BENZEMA216/agent-form) | AI Agent visual identity |
-| [agent-identity-docs](https://github.com/BENZEMA216/agent-identity-docs) | Agent Identity 项目文档 |
-| [agent-observability-tools](https://github.com/BENZEMA216/agent-observability-tools) | Agent 能力定义和观测工具 |
+| Repo | Role |
+|------|------|
+| [Dremaina-AGENT-2026](https://github.com/BENZEMA216/Dremaina-AGENT-2026) | 主项目 |
+| [music-analyzer](https://github.com/BENZEMA216/music-analyzer) | 技能：音频 → Dreamina Prompt |
+| [creative-think](https://github.com/BENZEMA216/creative-think) | 技能：Brief → 创意推理链 |
+| [dreamina-claude-skills](https://github.com/BENZEMA216/dreamina-claude-skills) | 技能集 |
 
 </details>
 
 <details>
-<summary><b>🔧 Skills & Plugins</b> — Claude Code 技能与工具</summary>
+<summary><b>OpenClaw 生态</b> — AI Agent Gateway 部署与产品</summary>
 
 &nbsp;
 
-| Repo | Description |
-|------|-------------|
-| [dreamina-claude-skills](https://github.com/BENZEMA216/dreamina-claude-skills) | 即梦 AI 创作技能集 |
-| [music-analyzer](https://github.com/BENZEMA216/music-analyzer) | Audio analysis → Dreamina prompts & storyboards |
-| [creative-think](https://github.com/BENZEMA216/creative-think) | 创意思考推理链插件 |
-| [self-purify](https://github.com/BENZEMA216/self-purify) | Security audit & self-purification |
-| [chatshot](https://github.com/BENZEMA216/chatshot) | One-click screenshot for AI conversations |
-| [clawdbot-skill-web3-pay](https://github.com/BENZEMA216/clawdbot-skill-web3-pay) | Crypto payments for Clawdbot |
+| Repo | Role |
+|------|------|
+| [xian-home](https://github.com/BENZEMA216/xian-home) | 弦的信号空间 (Web) |
+| [HomForClawd](https://github.com/BENZEMA216/HomForClawd) | iOS 客户端 |
+| [Creative-Cowork](https://github.com/BENZEMA216/Creative-Cowork) | 协作平台 |
+| [openclaw-pitfalls](https://github.com/BENZEMA216/openclaw-pitfalls) | 技能：部署经验库 |
+| [agent-observability-tools](https://github.com/BENZEMA216/agent-observability-tools) | 观测工具 |
 
 </details>
 
 <details>
-<summary><b>📓 Learnings</b> — 踩坑与认知记忆</summary>
+<summary><b>Agent Identity</b> — 让 AI Agent 拥有自主视觉表达</summary>
 
 &nbsp;
 
-| Repo | Description |
-|------|-------------|
-| [openclaw-pitfalls](https://github.com/BENZEMA216/openclaw-pitfalls) | OpenClaw 部署踩坑记录 |
-| [tradingcoach](https://github.com/BENZEMA216/tradingcoach) | 交易复盘工具 |
-| [Prompt_analyser](https://github.com/BENZEMA216/Prompt_analyser) | Prompt 分析工具 |
-| [clawd-daily](https://github.com/BENZEMA216/clawd-daily) | AI agent 与 human 的日常记录与反思 |
+| Repo | Role |
+|------|------|
+| [agent-form](https://github.com/BENZEMA216/agent-form) | agentavatar.dev + AVI 协议 |
+| [agent-identity-docs](https://github.com/BENZEMA216/agent-identity-docs) | 产品思考文档 |
 
 </details>
 
 <details>
-<summary><b>⚙️ Infrastructure</b> — 基础设施</summary>
+<summary><b>creo</b> — 品牌美学记忆平台</summary>
 
 &nbsp;
 
-| Repo | Description |
-|------|-------------|
-| [rss-reader](https://github.com/BENZEMA216/rss-reader) | RSS AI Reader → 飞书 |
-| [web3-timeline](https://github.com/BENZEMA216/web3-timeline) | WEB3 事件告警 |
+| Repo | Role |
+|------|------|
+| [creo](https://github.com/BENZEMA216/creo) | 品牌档案 + Visual DNA + 资产索引 |
+
+</details>
+
+<details>
+<summary><b>独立项目 & 通用技能</b></summary>
+
+&nbsp;
+
+| Repo | Role |
+|------|------|
+| [tradingcoach](https://github.com/BENZEMA216/tradingcoach) | AI 交易复盘分析平台 |
+| [chatshot](https://github.com/BENZEMA216/chatshot) | AI 对话截图（跨平台） |
+| [self-purify](https://github.com/BENZEMA216/self-purify) | Claude Code 安全审计 |
+| [rss-reader](https://github.com/BENZEMA216/rss-reader) | 信息输入管道 |
 
 </details>
 

@@ -230,6 +230,70 @@ A comprehensive assessment based on the **Revised NEO Personality Inventory** (s
 
 </details>
 
+### 🗺️ Memory Map
+
+> GitHub as my external brain — every repo is a memory unit.
+
+<details>
+<summary><b>🦞 Agent Ecosystem</b> — OpenClaw / Clawd 产品线</summary>
+
+&nbsp;
+
+| Repo | Description |
+|------|-------------|
+| [creo](https://github.com/BENZEMA216/creo) | Multimodal aesthetic memory system for AIGC |
+| [Dremaina-AGENT-2026](https://github.com/BENZEMA216/Dremaina-AGENT-2026) | 即梦创作 Agent 核心项目 |
+| [HomForClawd](https://github.com/BENZEMA216/HomForClawd) | OpenClaw iOS 客户端 |
+| [xian-home](https://github.com/BENZEMA216/xian-home) | 弦的信号空间 · OpenClaw Web Home |
+| [Creative-Cowork](https://github.com/BENZEMA216/Creative-Cowork) | AI-human collaborative creation |
+| [agent-form](https://github.com/BENZEMA216/agent-form) | AI Agent visual identity |
+| [agent-identity-docs](https://github.com/BENZEMA216/agent-identity-docs) | Agent Identity 项目文档 |
+| [agent-observability-tools](https://github.com/BENZEMA216/agent-observability-tools) | Agent 能力定义和观测工具 |
+
+</details>
+
+<details>
+<summary><b>🔧 Skills & Plugins</b> — Claude Code 技能与工具</summary>
+
+&nbsp;
+
+| Repo | Description |
+|------|-------------|
+| [dreamina-claude-skills](https://github.com/BENZEMA216/dreamina-claude-skills) | 即梦 AI 创作技能集 |
+| [music-analyzer](https://github.com/BENZEMA216/music-analyzer) | Audio analysis → Dreamina prompts & storyboards |
+| [creative-think](https://github.com/BENZEMA216/creative-think) | 创意思考推理链插件 |
+| [self-purify](https://github.com/BENZEMA216/self-purify) | Security audit & self-purification |
+| [chatshot](https://github.com/BENZEMA216/chatshot) | One-click screenshot for AI conversations |
+| [clawdbot-skill-web3-pay](https://github.com/BENZEMA216/clawdbot-skill-web3-pay) | Crypto payments for Clawdbot |
+
+</details>
+
+<details>
+<summary><b>📓 Learnings</b> — 踩坑与认知记忆</summary>
+
+&nbsp;
+
+| Repo | Description |
+|------|-------------|
+| [openclaw-pitfalls](https://github.com/BENZEMA216/openclaw-pitfalls) | OpenClaw 部署踩坑记录 |
+| [tradingcoach](https://github.com/BENZEMA216/tradingcoach) | 交易复盘工具 |
+| [Prompt_analyser](https://github.com/BENZEMA216/Prompt_analyser) | Prompt 分析工具 |
+| [clawd-daily](https://github.com/BENZEMA216/clawd-daily) | AI agent 与 human 的日常记录与反思 |
+
+</details>
+
+<details>
+<summary><b>⚙️ Infrastructure</b> — 基础设施</summary>
+
+&nbsp;
+
+| Repo | Description |
+|------|-------------|
+| [rss-reader](https://github.com/BENZEMA216/rss-reader) | RSS AI Reader → 飞书 |
+| [web3-timeline](https://github.com/BENZEMA216/web3-timeline) | WEB3 事件告警 |
+
+</details>
+
 ### 📫 Contact
 
 - Email: BENZEMAZDZ99@gmail.com

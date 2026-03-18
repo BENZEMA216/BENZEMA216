@@ -5,6 +5,7 @@
 [![GitHub](https://img.shields.io/badge/BENZEMA216-181717?style=flat&logo=github&logoColor=white)](https://github.com/BENZEMA216)
 [![Email](https://img.shields.io/badge/Email-ea4335?style=flat&logo=gmail&logoColor=white)](mailto:BENZEMAZDZ99@gmail.com)
 [![Blog](https://img.shields.io/badge/Blog-333?style=flat&logo=hashnode&logoColor=white)](https://benzema216.github.io)
+[![Terminal](https://img.shields.io/badge/Terminal-0d1117?style=flat&logo=windowsterminal&logoColor=white)](https://benzema216.github.io/terminal)
 ![Views](https://komarev.com/ghpvc/?username=BENZEMA216&color=gray&style=flat&label=views)
 
 </div>
@@ -16,6 +17,8 @@
 <div align="center">
 
 `Python` `TypeScript` `Go` `Swift` `LLM` `Agent` `RAG` `Claude Code`
+
+📖 [更多内容 →](https://benzema216.github.io)
 
 </div>
 

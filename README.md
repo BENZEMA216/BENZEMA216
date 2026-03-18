@@ -12,7 +12,7 @@
 
 <br>
 
-在**字节跳动**从 0→1 搭建了[即梦 AI](https://jimeng.jianying.com) Creative AGENT（即梦 Web 主入口），之前在**腾讯**做 LLM 数据产品，拿过 2023 业务突破奖。
+在**字节跳动**从 0→1 搭建了[即梦 AI](https://jimeng.jianying.com) Creative AGENT（即梦 Web 主入口），之前在**腾讯海外游戏**做 AI & 数据产品。
 
 <div align="center">
 

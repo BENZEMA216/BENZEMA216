@@ -1,13 +1,15 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&background=1A1A2E&center=true&vCenter=true&multiline=true&width=500&height=80&lines=Dongzhe+Zhu;AI+Product+Manager+%C3%97+Builder" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=30&duration=3000&pause=1000&color=333333&center=true&vCenter=true&width=500&height=45&lines=Dongzhe+Zhu" alt="Typing SVG" />
+
+**AI Product Manager × Builder**
 
 <br>
 
 [![GitHub](https://img.shields.io/badge/BENZEMA216-181717?style=flat&logo=github&logoColor=white)](https://github.com/BENZEMA216)
 [![Email](https://img.shields.io/badge/Email-ea4335?style=flat&logo=gmail&logoColor=white)](mailto:BENZEMAZDZ99@gmail.com)
 [![Blog](https://img.shields.io/badge/Blog-222?style=flat&logo=hashnode&logoColor=white)](https://benzema216.github.io)
-![Views](https://komarev.com/ghpvc/?username=BENZEMA216&color=222&style=flat&label=views)
+![Views](https://komarev.com/ghpvc/?username=BENZEMA216&color=gray&style=flat&label=views)
 
 </div>
 
@@ -45,8 +47,8 @@ Vibe coding 做出完整产品并上线的人
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=BENZEMA216&show_icons=true&hide_border=true&bg_color=00000000&title_color=888&text_color=666&icon_color=888&count_private=true&hide_title=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BENZEMA216&layout=compact&hide_border=true&bg_color=00000000&title_color=888&text_color=666&langs_count=6&hide_title=true" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=BENZEMA216&show_icons=true&hide_border=true&title_color=333&text_color=555&icon_color=888&count_private=true&hide_title=true" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BENZEMA216&layout=compact&hide_border=true&title_color=333&text_color=555&langs_count=6&hide_title=true" />
 
 </div>
 

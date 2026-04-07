@@ -1,56 +1,28 @@
-<div align="center">
+## Hi, I'm Dongzhe 👋
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=180&text=Dongzhe%20Zhu&fontColor=333&fontSize=38&fontAlign=50&fontAlignY=40&desc=AI%20Product%20Manager%20%C3%97%20Builder&descColor=666&descSize=16&descAlign=50&descAlignY=60&animation=fadeIn)
+I'm **Dongzhe Zhu**, a.k.a. **BENZEMA**.
 
-[![GitHub](https://img.shields.io/badge/BENZEMA216-181717?style=flat&logo=github&logoColor=white)](https://github.com/BENZEMA216)
-[![Email](https://img.shields.io/badge/Email-ea4335?style=flat&logo=gmail&logoColor=white)](mailto:BENZEMAZDZ99@gmail.com)
-[![Blog](https://img.shields.io/badge/Blog-333?style=flat&logo=hashnode&logoColor=white)](https://benzema216.github.io)
-[![Terminal](https://img.shields.io/badge/Terminal-0d1117?style=flat&logo=windowsterminal&logoColor=white)](https://benzema216.github.io/terminal)
-![Views](https://komarev.com/ghpvc/?username=BENZEMA216&color=gray&style=flat&label=views)
+**I explore what products look like in the age of Agents.**
 
-</div>
+### Building Now
 
-<br>
+- 📊 **[trading-toolkit](https://github.com/BENZEMA216/trading-toolkit)** - Personal trading toolkit covering the full lifecycle: pre-market → decision → execution → review
+- 📓 **[tradingcoach](https://github.com/BENZEMA216/tradingcoach)** - AI-powered trading review and reflection tool
+- 🛒 **[ai-ecommerce-agent-skills](https://github.com/BENZEMA216/ai-ecommerce-agent-skills)** - AI e-commerce agent skill pack: image generation, commerce design, competitive analysis, aesthetic memory
 
-在**字节跳动**从 0→1 搭建了[即梦 AI](https://jimeng.jianying.com) Creative AGENT（即梦 Web 主入口），之前在**腾讯海外游戏**做 AI & 数据产品。
+### Side Projects for Fun
 
-<div align="center">
+- 🧰 **[agent-deck](https://github.com/BENZEMA216/agent-deck)** - Get 10x more out of Claude Code, Codex, or any coding agent
+- 📈 **[stock-analyst](https://github.com/BENZEMA216/stock-analyst)** - US/HK pre-market analysis skill with a five-signal framework
+- 🎵 **[music-analyzer](https://github.com/BENZEMA216/music-analyzer)** - Claude Code plugin that analyzes audio and generates prompts & storyboards
+- 🧠 **[creative-think](https://github.com/BENZEMA216/creative-think)** - Claude Code plugin for structured creative reasoning chains
+- 💬 **[chatshot](https://github.com/BENZEMA216/chatshot)** - One-click screenshot tool for AI chatbot conversations
 
-`Python` `TypeScript` `Go` `Swift` `LLM` `Agent` `RAG` `Claude Code`
+### Previously
 
-📖 [更多内容 →](https://benzema216.github.io)
+- 🎨 0→1 builder of **[Jimeng AI](https://jimeng.jianying.com)** Creative Agent (Jimeng Web main entry) at **ByteDance**.
+- 🎮 AI & data products at **Tencent** Global Game Publishing.
 
-</div>
+### Find Me
 
----
-
-#### 🛠 Side Projects
-
-| 项目 | 介绍 | 链接 |
-|:-----|:-----|:-----|
-| **[OpenClaw](https://github.com/BENZEMA216/xian-home)** | AI Agent 网关 — 让 Agent 能力可发现、可调用、可变现 | [xian-home](https://github.com/BENZEMA216/xian-home) |
-| **[弦 Xian](https://github.com/BENZEMA216/HomForClawd)** | 个人 AI Agent — 云端热/温/冷分层记忆系统 | [iOS](https://github.com/BENZEMA216/HomForClawd) · [Web](https://github.com/BENZEMA216/xian-home) |
-| **[即梦 Studio](https://github.com/BENZEMA216/dreamina-claude-skills)** | 即梦 AI 全链路视频自动化：脚本→配音→音乐→成片 | [skills](https://github.com/BENZEMA216/dreamina-claude-skills) |
-| **[Claude Code Skills](https://github.com/BENZEMA216/creative-think)** | 系列插件 — dreamina · music-analyzer · creative-think · self-purify | [creative-think](https://github.com/BENZEMA216/creative-think) |
-| **[TradingCoach](https://github.com/BENZEMA216/tradingcoach)** | AI 交易复盘分析平台 | [tradingcoach](https://github.com/BENZEMA216/tradingcoach) |
-| **[ChatShot](https://github.com/BENZEMA216/chatshot)** | AI 对话截图工具（跨平台） | [chatshot](https://github.com/BENZEMA216/chatshot) |
-
----
-
-<details>
-<summary><b>🧬 性格画像</b></summary>
-<br>
-
-**盖洛普优势** — 理念 · 学习 · 搜集 · 积极 · 成就
-**大五人格** — 外向 89th · 责任心 72nd · 神经质 2nd（极度情绪稳定）
-**原始世界信念** — 可改善 99th · 互联 99th · 需要我 99th
-
-> 对新理念的好奇 → 大量吸收信息 → 形成独特洞察 → 快速付诸行动
-
-</details>
-
-<br>
-
-<div align="center">
-<sub><i>"Build agents that build value."</i></sub>
-</div>
+[Blog](https://benzema216.github.io) · [Terminal](https://benzema216.github.io/terminal) · [Email](mailto:BENZEMAZDZ99@gmail.com)
